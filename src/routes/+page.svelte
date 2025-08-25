@@ -194,7 +194,8 @@
 	</div>
 </section>
 
-<!-- Values Section -->
+
+<!-- Services Section -->
 <section class="py-20 bg-white">
 	<div class="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8">
 		<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
@@ -203,10 +204,10 @@
 					<div class="absolute top-4 right-4 text-4xl font-light text-gray-200 group-hover:text-gray-300 transition-colors duration-300 leading-none">01</div>
 					<div class="relative z-10">
 						<h3 class="text-xl font-bold text-gray-900 mb-4 leading-tight pr-10">
-							{m['homepage.reactivity_title']()}
+							{m['homepage.service1_title']()}
 						</h3>
 						<p class="text-gray-600 leading-relaxed text-sm">
-							{m['homepage.reactivity_desc']()}
+							{m['homepage.service1_desc']()}
 						</p>
 					</div>
 				</div>
@@ -217,10 +218,10 @@
 					<div class="absolute top-4 right-4 text-4xl font-light text-gray-200 group-hover:text-gray-300 transition-colors duration-300 leading-none">02</div>
 					<div class="relative z-10">
 						<h3 class="text-xl font-bold text-gray-900 mb-4 leading-tight pr-10">
-							{m['homepage.discretion_title']()}
+							{m['homepage.service2_title']()}
 						</h3>
 						<p class="text-gray-600 leading-relaxed text-sm">
-							{m['homepage.discretion_desc']()}
+							{m['homepage.service2_desc']()}
 						</p>
 					</div>
 				</div>
@@ -231,10 +232,10 @@
 					<div class="absolute top-4 right-4 text-4xl font-light text-gray-200 group-hover:text-gray-300 transition-colors duration-300 leading-none">03</div>
 					<div class="relative z-10">
 						<h3 class="text-xl font-bold text-gray-900 mb-4 leading-tight pr-10">
-							{m['homepage.independence_title']()}
+							{m['homepage.service3_title']()}
 						</h3>
 						<p class="text-gray-600 leading-relaxed text-sm">
-							{m['homepage.independence_desc']()}
+							{m['homepage.service3_desc']()}
 						</p>
 					</div>
 				</div>
@@ -245,10 +246,10 @@
 					<div class="absolute top-4 right-4 text-4xl font-light text-gray-200 group-hover:text-gray-300 transition-colors duration-300 leading-none">04</div>
 					<div class="relative z-10">
 						<h3 class="text-xl font-bold text-gray-900 mb-4 leading-tight pr-10">
-							{m['homepage.excellence_title']()}
+							{m['homepage.service4_title']()}
 						</h3>
 						<p class="text-gray-600 leading-relaxed text-sm">
-							{m['homepage.excellence_desc']()}
+							{m['homepage.service4_desc']()}
 						</p>
 					</div>
 				</div>
