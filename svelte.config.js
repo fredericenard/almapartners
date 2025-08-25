@@ -6,12 +6,7 @@ const config = {
 	// Consult https://svelte.dev/docs/kit/integrations
 	// for more information about preprocessors
 	preprocess: vitePreprocess(),
-	kit: { 
-		adapter: adapter({
-			// Enable Node.js compatibility for async_hooks support
-			compatibilityFlags: ['nodejs_compat']
-		})
-	}
+	kit: { adapter: adapter() }
 };
 
 export default config;
